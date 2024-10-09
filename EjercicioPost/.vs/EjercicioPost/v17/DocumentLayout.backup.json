@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|c:\\users\\manue\\onedrive\\documentos\\programacion-de-software\\practicas\\migraciones\\ejerciciopost\\asp_servicios\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|c:\\users\\manue\\onedrive\\documentos\\programacion-de-software\\practicas\\migraciones\\ejerciciopost\\asp_servicios\\nucleo\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|c:\\users\\manue\\onedrive\\documentos\\programacion-de-software\\practicas\\migraciones\\ejerciciopost\\asp_servicios\\nucleo\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|c:\\users\\manue\\onedrive\\documentos\\programacion-de-software\\practicas\\migraciones\\ejerciciopost\\asp_servicios\\nucleo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|c:\\users\\manue\\onedrive\\documentos\\programacion-de-software\\practicas\\migraciones\\ejerciciopost\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|c:\\users\\manue\\onedrive\\documentos\\programacion-de-software\\practicas\\migraciones\\ejerciciopost\\asp_servicios\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|c:\\users\\manue\\onedrive\\documentos\\programacion-de-software\\practicas\\migraciones\\ejerciciopost\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|c:\\users\\manue\\onedrive\\documentos\\programacion-de-software\\practicas\\migraciones\\ejerciciopost\\asp_servicios\\migrations\\20241008193125_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84207B7-232D-4DB8-ABAE-8B5222E033C6}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\migrations\\20241008193125_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Program.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Program.cs",
+              "RelativeToolTip": "asp_servicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:36:25.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\StartUp.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\StartUp.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\StartUp.cs",
+              "RelativeToolTip": "asp_servicios\\StartUp.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:36:23.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\JsonHelper.cs",
+              "RelativeToolTip": "asp_servicios\\JsonHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:56:50.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAAAIcBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:32:06.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241008193125_PrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Migrations\\20241008193125_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Migrations\\20241008193125_PrimeraMigracion.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Migrations\\20241008193125_PrimeraMigracion.cs",
+              "RelativeToolTip": "asp_servicios\\Migrations\\20241008193125_PrimeraMigracion.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:31:25.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Nucleo\\Conexion.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Nucleo\\Conexion.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Conexion.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:22:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Nucleo\\Pagos.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Pagos.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Nucleo\\Pagos.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Pagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:21:57.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Nucleo\\Personas.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Personas.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Programacion-de-software\\Practicas\\migraciones\\EjercicioPost\\asp_servicios\\Nucleo\\Personas.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Personas.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:21:32.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
